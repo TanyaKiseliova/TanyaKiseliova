@@ -84,11 +84,6 @@ Proactive Full Stack Developer with hands-on experience in web development, busi
 Сorporate employee engagement platform integrated with Microsoft Teams, enabling employees to recognize and appreciate colleagues, earn virtual coins, and redeem them for rewards through a web application. The platform also included an achievement system encouraging 
 employees improve their skills through gamification
 
-*   **Backend:** .NET 10, ASP.NET Core Web API, GraphQL
-*   **Frontend:** React, Redux, TypeScript, Ant Design (ANT), Material-UI (MUI)
-*   **Database:** PostgreSQL
-*   **Infrastructure:** Docker, MS Azure
-
 *   **Tech Stack:**
 *   **Backend:** ![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 *   **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
@@ -133,10 +128,4 @@ employees improve their skills through gamification
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaKiseliova&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TanyaKiseliova&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
 </p>

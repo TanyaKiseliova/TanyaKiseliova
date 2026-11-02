@@ -20,7 +20,7 @@ Proactive Full Stack Developer with hands-on experience in web development, busi
 
 - 🔭 Currently working as a Full Stack Developer & Business Analyst at Itransition Group.
 - 🎮 Passionate about Game Design (Unity, 2D/3D graphics, animation).
-- 🌱 I’m open to part-time and remote opportunities as a **Full Stack Developer**, **Business Analyst**, or **Game Developer**. Feel free to contact me!
+- 🌱 I’m open to part-time and remote opportunities as a **Full Stack Developer**, **Business Analyst**, or **Game Developer (3D, Game design)**. Feel free to contact me!
 - 🗣️ Languages: English (Upper-Intermediate), Russian (Native).
   
 
@@ -81,7 +81,7 @@ Proactive Full Stack Developer with hands-on experience in web development, busi
 **Itransition Group** | *Full Stack Developer & Business Analyst* | *Feb 2026 - Present* 
 
 **🚀 Employee Recognition and Engagement Platform**
-Сorporate employee engagement platform integrated with Microsoft Teams, enabling employees to recognize and appreciate colleagues, earn virtual coins, and redeem them for rewards through a web application. The platform also included an achievement system encouraging 
+integrated with Microsoft Teams, enabling employees to recognize and appreciate colleagues, earn virtual coins, and redeem them for rewards through a web application. The platform also included an achievement system encouraging 
 employees improve their skills through gamification
 
 *   **Tech Stack:**
@@ -115,7 +115,7 @@ employees improve their skills through gamification
 ### 🎓 Education & Certificates
 
 *   **BSUIR** (Belarusian State University of Informatics and Radioelectronics) — Software Engineering and Game Design. Gratuated with honors
-*   **AI Certificates:** Claude 101, Claude Code 101, Claude Introduction to subagents
+*   **AI Certificates:** Claude 101, Claude Code 101, Claude Introduction to subagents, Claude Platform 101 
 
 ---
 
@@ -127,5 +127,9 @@ employees improve their skills through gamification
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaKiseliova&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TanyaKiseliova&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TanyaKiseliova&theme=radical" alt="Profile Details" />
 </p>
